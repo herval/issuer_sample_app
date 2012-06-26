@@ -5,4 +5,4 @@ gem 'sqlite3'
 gem 'json'
 gem 'pry'
 
-gem 'issuer', '1.0', :path => '/Volumes/Macintosh HD/Data/Development/issuer/'
+gem 'issuer'
